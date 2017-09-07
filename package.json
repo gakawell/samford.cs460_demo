@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/gakawell/samford.cs460_demo/issues"
   },
-  "homepage": "https://github.com/gakawell/samford.cs460_demo#readme"
+  "homepage": "https://github.com/gakawell/samford.cs460_demo#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
 }
